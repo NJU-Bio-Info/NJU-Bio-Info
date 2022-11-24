@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NJU-Bio-Info
+- 👋 Hi, I’m @NJU-Bio-Info, a candicate for master degree.
 - 👀 I’m interested in transcription regulation and multi-omics analysis.
 - 🌱 I’m currently learning coding skills and single cell omic data analysis.
 
